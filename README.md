@@ -1,6 +1,8 @@
 # data_processing_1_shared_repo
 This is the sharing repo for the course data processing 1
+THIS IS ONLY AN EXCERPT OF THE DATA
 Source of the covid-19 Data: 
+
 By ECDC 
 Copyright:
 - https://www.ecdc.europa.eu/en/copyright
